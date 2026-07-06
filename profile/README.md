@@ -32,6 +32,7 @@ The game is in the final stretch before release. Planned platforms:
 
 ## 🔗 Links
 
+- 📜 [Release notes / Notes de version](https://bloodstead.github.io/bloomstead-privacy/versions.html)
 - 🔒 [Privacy policy / Politique de confidentialité](https://bloodstead.github.io/bloomstead-privacy/)
 - 📫 Contact: valentin.damlencourt@gmail.com
 
