@@ -15,7 +15,7 @@ sound and song in the game is generated procedurally, without imported assets.
 
 ![A wave of sprinklers reblooming the whole level](https://raw.githubusercontent.com/Bloodstead/.github/main/profile/media/teaser_wave.gif)
 
-**[Watch the full trailer with sound](https://bloodstead.github.io/bloomstead-privacy/game.html)**
+**[Watch the full trailer with sound](https://bloodstead.github.io/bloomstead-privacy/)**
 
 ## What's inside
 
@@ -27,11 +27,11 @@ sound and song in the game is generated procedurally, without imported assets.
 
 ## Screenshots
 
-[![A small factory reblooming a meadow](https://raw.githubusercontent.com/Bloodstead/.github/main/profile/media/screenshot_01_factory_meadow.jpg)](https://bloodstead.github.io/bloomstead-privacy/game.html)
-[![A conveyor chain crossing the desert](https://raw.githubusercontent.com/Bloodstead/.github/main/profile/media/screenshot_03_desert.jpg)](https://bloodstead.github.io/bloomstead-privacy/game.html)
-[![The world map and its golden path](https://raw.githubusercontent.com/Bloodstead/.github/main/profile/media/screenshot_05_world_map.jpg)](https://bloodstead.github.io/bloomstead-privacy/game.html)
+[![A small factory reblooming a meadow](https://raw.githubusercontent.com/Bloodstead/.github/main/profile/media/screenshot_01_factory_meadow.jpg)](https://bloodstead.github.io/bloomstead-privacy/)
+[![A conveyor chain crossing the desert](https://raw.githubusercontent.com/Bloodstead/.github/main/profile/media/screenshot_03_desert.jpg)](https://bloodstead.github.io/bloomstead-privacy/)
+[![The world map and its golden path](https://raw.githubusercontent.com/Bloodstead/.github/main/profile/media/screenshot_05_world_map.jpg)](https://bloodstead.github.io/bloomstead-privacy/)
 
-More on the [game page](https://bloodstead.github.io/bloomstead-privacy/game.html).
+More on the [game page](https://bloodstead.github.io/bloomstead-privacy/).
 
 ## Where to play
 
@@ -45,9 +45,9 @@ The game is in the final stretch before release. Planned platforms:
 
 ## Links
 
-- [Game page, trailer and screenshots](https://bloodstead.github.io/bloomstead-privacy/game.html)
+- [Game page, trailer and screenshots](https://bloodstead.github.io/bloomstead-privacy/)
 - [Release notes / Notes de version](https://bloodstead.github.io/bloomstead-privacy/versions.html)
-- [Privacy policy / Politique de confidentialité](https://bloodstead.github.io/bloomstead-privacy/)
+- [Privacy policy / Politique de confidentialité](https://bloodstead.github.io/bloomstead-privacy/privacy.html)
 - Contact: valentin.damlencourt@gmail.com
 
 ---
